@@ -19,5 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('login.salesforce.com')
 
+WebUI.closeBrowser()
+
 WebUI.acceptAlert()
 
