@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_View profile_slds-r7</name>
+   <tag></tag>
+   <elementGuidId>182b77c1-dbb6-467d-8913-19f2ffdba56f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-r7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/div/div[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e5c57b12-a41d-4142-963c-5d43c6706d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-r7</value>
+      <webElementGuid>b305ced5-9b93-46ee-ac8c-22bde1d0884d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;desktop&quot;]/div[@class=&quot;desktop container forceStyle oneOne navexDesktopLayoutContainer lafAppLayoutHost forceAccess&quot;]/div[@class=&quot;viewport&quot;]/section[@class=&quot;layoutContent stage panelSlide&quot;]/div[@class=&quot;workspaceManager navexWorkspaceManager&quot;]/div[@class=&quot;oneConsoleTabset navexConsoleTabset&quot;]/div[@class=&quot;tabsetHeader slds-context-bar slds-context-bar--tabs slds-no-print noLeftSpacing&quot;]/div[@class=&quot;slds-context-bar__primary navLeft navBar&quot;]/div[@class=&quot;navexSetupNav&quot;]/div[@class=&quot;slds-context-bar__item slds-no-hover&quot;]/div[@class=&quot;appLauncher slds-context-bar__icon-action&quot;]/one-app-launcher-header[1]/button[@class=&quot;slds-button slds-context-bar__button slds-icon-waffle_container slds-show&quot;]/div[@class=&quot;slds-icon-waffle&quot;]/div[@class=&quot;slds-r7&quot;]</value>
+      <webElementGuid>5cc6557e-5349-4fae-ace8-d04820af5946</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div[7]</value>
+      <webElementGuid>f79d8fb7-9844-4ffc-97d9-b3377719a5f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lightning-primitive-icon</name>
+   <tag></tag>
+   <elementGuidId>46e54f86-3ae7-4e4a-ad8b-20dcd4015787</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.slds-button.slds-button_icon.slds-button_icon-bare.slds-button_icon-inverse > lightning-primitive-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content_1098:0']/one-floating-panel-content/section/div/div[2]/div/div/lightning-button-icon/button/lightning-primitive-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>lightning-primitive-icon</value>
+      <webElementGuid>1d992444-f7b8-4e99-95e4-ea4891e98e65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>exportparts</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>a5db5dce-6ae2-4344-bcb5-6db6c9983fd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>variant</name>
+      <type>Main</type>
+      <value>bare</value>
+      <webElementGuid>451a26a4-1bc7-414c-afc8-d178711be363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content_1098:0&quot;)/one-floating-panel-content[1]/section[@class=&quot;slds-popover slds-popover_prompt main-section slds-popover_dark&quot;]/div[@class=&quot;slds-grid main-body slds-text-color_inverse&quot;]/div[@class=&quot;slds-grid slds-grid_vertical&quot;]/div[@class=&quot;slds-p-right_x-small slds-p-top_small&quot;]/div[@class=&quot;slds-align_absolute-center&quot;]/lightning-button-icon[@class=&quot;close slds-popover__close&quot;]/button[@class=&quot;slds-button slds-button_icon slds-button_icon-bare slds-button_icon-inverse&quot;]/lightning-primitive-icon[1]</value>
+      <webElementGuid>3bc5ac29-8ff6-40ba-a5a1-90ced6f09ee5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content_1098:0']/one-floating-panel-content/section/div/div[2]/div/div/lightning-button-icon/button/lightning-primitive-icon</value>
+      <webElementGuid>f18f03ec-f129-4455-9653-3c2f60204e60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Press Ctrl+F6 to go to prompt in-app guidance'])[1]/following::lightning-primitive-icon[1]</value>
+      <webElementGuid>2e189bcc-56c4-465d-8455-a3c1603230bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Step 1/2'])[1]/following::lightning-primitive-icon[1]</value>
+      <webElementGuid>29ff61c2-741e-4a9f-be27-52c9ba76e1b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/preceding::lightning-primitive-icon[1]</value>
+      <webElementGuid>45f7a13c-f1a3-46fe-8146-566e665cdce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag and Drop'])[1]/preceding::lightning-primitive-icon[2]</value>
+      <webElementGuid>2814d65a-c6a5-47f0-901e-89a1630a8077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/lightning-button-icon/button/lightning-primitive-icon</value>
+      <webElementGuid>f10515e4-707b-4e75-876b-164206bd1a1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

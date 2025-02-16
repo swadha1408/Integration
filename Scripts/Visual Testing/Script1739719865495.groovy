@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('login.salesforce.com')
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('login.salesforce.com')
 
 WebUI.closeBrowser()
-
-WebUI.acceptAlert()
 

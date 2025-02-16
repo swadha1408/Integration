@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>b11ff1dd-a97c-41ab-a2ea-a8a8332ca85d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.slds-icon_container.slds-icon-utility-down > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_1']/div/div/div/div/div[2]/div/div/div[2]/div[2]/div/div/div/table/tbody/tr/td[6]/span/div/a/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>05576a1a-7f1f-45e5-9f5f-3d06e0a1b2fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>1652:0</value>
+      <webElementGuid>9a5c68e7-da9c-45dd-952d-efea70309d51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_1&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;windowViewMode-maximized oneContent active lafPageHost&quot;]/div[@class=&quot;oneConsoleObjectHome&quot;]/div[@class=&quot;test-listViewManager slds-card slds-card_boundary slds-grid slds-grid_vertical slds-grid--vertical forceListViewManager&quot;]/div[@class=&quot;slds-grid listDisplays safari-workaround-anchor&quot;]/div[@class=&quot;slds-grid listViewContainer safari-workaround&quot;]/div[@class=&quot;slds-col slds-no-space forceListViewManagerPrimaryDisplayManager&quot;]/div[@class=&quot;undefined forceListViewManagerGrid&quot;]/div[@class=&quot;listViewContent slds-table--header-fixed_container slds-table_header-fixed_container&quot;]/div[@class=&quot;uiScroller scroller-wrapper scroll-bidirectional native&quot;]/div[@class=&quot;scroller actionBarPlugin&quot;]/div[@class=&quot;slds-table_edit_container slds-table--edit_container slds-is-relative  inlineEdit--enabled keyboardMode--active inlineEditGrid forceInlineEditGrid&quot;]/table[@class=&quot;slds-table forceRecordLayout slds-table_header-fixed slds-table--header-fixed slds-table_edit slds-table--edit slds-table_bordered slds-table--bordered resizable-cols slds-table--resizable-cols uiVirtualDataTable&quot;]/tbody[1]/tr[1]/td[@class=&quot;slds-cell-edit cellContainer&quot;]/span[@class=&quot;slds-grid slds-grid--align-spread&quot;]/div[@class=&quot;forceVirtualActionMarker forceVirtualAction&quot;]/a[@class=&quot;rowActionsPlaceHolder slds-button slds-button--icon-x-small slds-button_icon-x-small slds-button--icon-border-filled slds-button_icon-border-filled keyboardMode--trigger&quot;]/span[@class=&quot;slds-icon_container slds-icon-utility-down&quot;]/span[1]</value>
+      <webElementGuid>2fad18c3-17d2-446a-908c-0cd881481607</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_1']/div/div/div/div/div[2]/div/div/div[2]/div[2]/div/div/div/table/tbody/tr/td[6]/span/div/a/span/span</value>
+      <webElementGuid>6e3d5456-7f33-415f-8f7c-5638c82ce242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Locked Account Owner Alias: Item'])[1]/following::span[3]</value>
+      <webElementGuid>811a1077-d14f-44e8-80cc-10a7faa0a5ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kAuto'])[1]/following::span[6]</value>
+      <webElementGuid>91ff3055-d98f-468a-81b2-e0ceb4d759bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Actions'])[1]/preceding::span[1]</value>
+      <webElementGuid>456acbe3-3d87-4ed1-824e-cd2cf5aa9783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Katalon'])[1]/preceding::span[6]</value>
+      <webElementGuid>a9c3212d-03f4-4493-9b5b-5f2f21e15a33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span/span</value>
+      <webElementGuid>eb2805ee-d1d5-4fd8-b3a3-2d97725b7e60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
