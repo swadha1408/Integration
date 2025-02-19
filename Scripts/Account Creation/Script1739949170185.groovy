@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://login.salesforce.com/')
+WebUI.navigateToUrl('https://crmit129-dev-ed.develop.lightning.force.com/lightning/o/Account/list?filterName=__Recent')
 
 WebUI.takeScreenshotAsCheckpoint('Login Page')
 
@@ -30,14 +30,6 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login  Salesforce/
 WebUI.click(findTestObject('Object Repository/Page_Login  Salesforce/input_Password_Login'))
 
 WebUI.takeScreenshotAsCheckpoint('After Login')
-
-WebUI.click(findTestObject('Object Repository/Page_Home  Salesforce/div_App Launcher'))
-
-WebUI.click(findTestObject('Object Repository/Page_Home  Salesforce/button_View All'))
-
-WebUI.click(findTestObject('Object Repository/Page_Home  Salesforce/p_Sales'))
-
-WebUI.click(findTestObject('Object Repository/Page_Home  Salesforce/span_Accounts'))
 
 WebUI.click(findTestObject('Object Repository/Page_Recently Viewed  Accounts  Salesforce/a_New'))
 

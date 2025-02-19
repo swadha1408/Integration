@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='brandBand_1']/div/div/div/div/div/div/div[2]/ul/li/a</value>
+         <value>//*[@id=&quot;brandBand_1&quot;]/div/div/div/div/div[1]/div[1]/div[2]/ul/li[1]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c9c1cf0a-2d4b-49f7-990e-277452fa9fef</webElementGuid>
+      <webElementGuid>de189e89-fa79-4e88-aeba-44aad6f79906</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0);</value>
-      <webElementGuid>12491536-0513-4691-a230-2b48476cee62</webElementGuid>
+      <webElementGuid>8cd7333e-a8d2-4128-b8f1-742947760543</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>title</name>
       <type>Main</type>
       <value>New</value>
-      <webElementGuid>3a8d22ca-831e-4f50-830f-aeaff9de4bbb</webElementGuid>
+      <webElementGuid>134499bf-6764-4f1a-8b0f-a016fc5519a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>data-aura-rendered-by</name>
       <type>Main</type>
       <value>1572:0</value>
-      <webElementGuid>6cfd1bd8-7993-4ce0-8c8c-fd93646b048f</webElementGuid>
+      <webElementGuid>4c1607c3-197f-48c2-b198-9d4b9679d7e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>class</name>
       <type>Main</type>
       <value>forceActionLink</value>
-      <webElementGuid>23986edf-2d6c-46b4-99d1-ee19a28217f3</webElementGuid>
+      <webElementGuid>2336d3b4-fa63-4905-8c77-f4cd14c77392</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>data-aura-class</name>
       <type>Main</type>
       <value>forceActionLink</value>
-      <webElementGuid>079db14b-f0f8-4ced-9ded-843c0583aab7</webElementGuid>
+      <webElementGuid>3e379221-25e7-4df0-99aa-eb8af07d4adb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6e1a28fe-ee89-4421-9e55-774a5f6de88c</webElementGuid>
+      <webElementGuid>85a63afd-380d-4b40-8d0b-c560e28552a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>text</name>
       <type>Main</type>
       <value>New</value>
-      <webElementGuid>4ecbc678-4661-4135-ba20-82f30323022c</webElementGuid>
+      <webElementGuid>168723fa-0fa4-4434-985c-b1b2ce4f3f15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;brandBand_1&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;windowViewMode-maximized oneContent active lafPageHost&quot;]/div[@class=&quot;oneConsoleObjectHome&quot;]/div[@class=&quot;test-listViewManager slds-card slds-card_boundary slds-grid slds-grid_vertical slds-grid--vertical forceListViewManager&quot;]/div[@class=&quot;slds-page-header_object-home slds-page-header--object-home slds-page-header_joined slds-page-header_bleed slds-page-header slds-shrink-none test-headerRegion forceListViewManagerHeader&quot;]/div[@class=&quot;slds-grid&quot;]/div[@class=&quot;slds-col slds-no-flex slds-grid slds-align-top slds-p-bottom--xx-small test-lvmForceActionsContainer&quot;]/ul[@class=&quot;branding-actions slds-button-group slds-m-left--xx-small oneActionsRibbon forceActionsContainer&quot;]/li[@class=&quot;slds-button slds-button--neutral slds-button_neutral&quot;]/a[@class=&quot;forceActionLink&quot;]</value>
-      <webElementGuid>36125103-2a5b-4afa-b17b-de401f32d6bd</webElementGuid>
+      <webElementGuid>1120ddac-6f8a-40ee-a8e5-480e36999c4d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_1']/div/div/div/div/div/div/div[2]/ul/li/a</value>
-      <webElementGuid>2aa8f308-6cbe-402a-adf8-c07337ef6cd1</webElementGuid>
+      <webElementGuid>79abb170-ba50-44ee-8a95-3947c3e22603</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='To unpin, pin another list view.'])[1]/following::a[1]</value>
-      <webElementGuid>b4073c59-3ad6-4a55-9082-4f415e22d3ee</webElementGuid>
+      <webElementGuid>39c14228-1e7e-43bb-8074-274892b9b55a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='This list is pinned.'])[1]/following::a[1]</value>
-      <webElementGuid>0046734c-79f2-413f-b607-f5862786699d</webElementGuid>
+      <webElementGuid>1a6d27ed-51be-4751-935e-4117ce734976</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[1]/preceding::a[1]</value>
-      <webElementGuid>8da4c786-2e11-4744-a228-d5a904c854b9</webElementGuid>
+      <webElementGuid>a0cb3b7e-febf-4a20-b4cb-4bcc8e2feaf9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:void(0);')])[5]</value>
-      <webElementGuid>d00e89d3-96df-4b6f-bedd-1517cf29290b</webElementGuid>
+      <webElementGuid>a523cdf8-d257-4d91-8353-f98927f127c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a</value>
-      <webElementGuid>2c6c606f-8310-4571-ae3d-e5198189f117</webElementGuid>
+      <webElementGuid>62f7c423-c87b-4f29-bcc9-ab8369865bb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,6 +143,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript:void(0);' and @title = 'New' and (text() = 'New' or . = 'New')]</value>
-      <webElementGuid>9c425fe1-dbf2-458c-bb67-de07534c8138</webElementGuid>
+      <webElementGuid>948ca4fe-036d-412c-bbad-b521f36b09a1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
