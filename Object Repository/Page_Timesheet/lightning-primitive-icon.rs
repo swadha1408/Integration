@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lightning-primitive-icon</name>
+   <tag></tag>
+   <elementGuidId>2cf00382-dea2-477c-aef9-eca57570d7e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing project indai'])[1]/preceding::lightning-primitive-icon[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.section-control.slds-button.slds-button_reset.slds-accordion__summary-action > lightning-primitive-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>lightning-primitive-icon</value>
+      <webElementGuid>fc9055b1-d472-4584-8edf-3036983f8116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>x-small</value>
+      <webElementGuid>02143e82-a5eb-4abc-90e1-d9beb2acb8d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;slds-no-wcag&quot;]/body[@class=&quot;null comm-page-custom-timesheet&quot;]/div[@class=&quot;themeLayoutStarterWrapper isHeroUnderHeader-false isHeaderPinned-false siteforceThemeLayoutStarter&quot;]/div[@class=&quot;body isPageWidthFixed-true&quot;]/div[@class=&quot;siteforceSldsOneColLayout siteforceContentArea&quot;]/div[@class=&quot;slds-col--padded contentRegion comm-layout-column&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/c-timesheet[1]/article[@class=&quot;slds-card&quot;]/div[@class=&quot;slds-card__body slds-card__body_inner&quot;]/div[@class=&quot;slds-var-m-around_small&quot;]/lightning-accordion[@class=&quot;slds-accordion&quot;]/div[1]/slot[1]/lightning-accordion-section[@class=&quot;slds-accordion__list-item&quot;]/div[@class=&quot;slds-accordion__list-item&quot;]/section[@class=&quot;slds-accordion__section&quot;]/div[@class=&quot;slds-accordion__summary&quot;]/h2[@class=&quot;slds-accordion__summary-heading&quot;]/button[@class=&quot;section-control slds-button slds-button_reset slds-accordion__summary-action&quot;]/lightning-primitive-icon[1]</value>
+      <webElementGuid>83485329-6f74-4829-8826-8a1b68712a88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing project indai'])[1]/preceding::lightning-primitive-icon[1]</value>
+      <webElementGuid>d6d7d3d2-cc28-4be7-892d-1f6e76155934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/button/lightning-primitive-icon</value>
+      <webElementGuid>c6c83813-7f62-4a23-8acd-807bdf1b700d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

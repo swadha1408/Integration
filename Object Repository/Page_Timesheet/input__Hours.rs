@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_pw</name>
+   <name>input__Hours</name>
    <tag></tag>
-   <elementGuidId>70913af7-e463-4c5d-a190-0aa56aac66a3</elementGuidId>
+   <elementGuidId>bb0c5d4e-e38e-4113-a7fe-94932212aaef</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='password']</value>
+         <value>//input[@id='input-54']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#password</value>
+         <value>#input-54</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,110 +23,126 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>65cb3029-a453-4414-9e9d-b6d24c8a7074</webElementGuid>
+      <webElementGuid>ec14f929-3675-4b22-8465-f780326522e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>input r4 wide mb16 mt8 password</value>
-      <webElementGuid>bf31e32d-c25d-4af6-87b5-314fd88eb41c</webElementGuid>
+      <value>slds-input</value>
+      <webElementGuid>564afc7f-6c3e-4ff9-bfe3-392982665b7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>part</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>dd4b569d-f6fa-4194-aebf-42f829fcd209</webElementGuid>
+      <value>input</value>
+      <webElementGuid>118a01e8-f29f-4695-9ba6-965062089262</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>13004d84-9b79-40cc-a3df-c9eb5a8c5695</webElementGuid>
+      <value>input-54</value>
+      <webElementGuid>bdb95270-902e-48a3-96b7-6a5c9c0b0357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inputmode</name>
+      <type>Main</type>
+      <value>decimal</value>
+      <webElementGuid>648d62bd-07c6-455b-ba8c-14884237db09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>max</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>26ff1993-f249-42dd-bee5-2b7fcbd8053f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>min</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>634abd97-c2b6-4f0f-860c-f4803a6ee976</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>pw</value>
-      <webElementGuid>53ea401f-27cf-4b02-820e-e32cadfb5a33</webElementGuid>
+      <value>Hours</value>
+      <webElementGuid>d3b30991-06af-45fa-9d2f-5ad4d48fca7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>step</name>
+      <type>Main</type>
+      <value>0.01</value>
+      <webElementGuid>f59f9583-5160-4c41-ad46-5c6809ddd37d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>2ca34b60-e56d-43f3-b3d3-ece539dd6993</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-describedby</name>
       <type>Main</type>
-      <value>error</value>
-      <webElementGuid>9394bacd-e14d-4a78-b557-006889b8ddca</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-required</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>c224eca3-3f29-41e7-829f-09000f164b63</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onkeypress</name>
-      <type>Main</type>
-      <value>checkCaps(event)</value>
-      <webElementGuid>24ccbf42-ea56-45da-877e-d3138171153a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>1b73366a-e2f7-45ce-bef4-8589588fbd63</webElementGuid>
+      <value>help-message-54</value>
+      <webElementGuid>23a1244a-ace9-462f-9407-e4909ea37dc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;password&quot;)</value>
-      <webElementGuid>76b7c3bd-4629-4764-ac03-40461f3e3109</webElementGuid>
+      <value>id(&quot;input-54&quot;)</value>
+      <webElementGuid>6e428dfc-9269-47a7-a5bd-288956f93fe4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='password']</value>
-      <webElementGuid>27b62b82-ba30-412e-ac7b-5782bc0d72b7</webElementGuid>
+      <value>//input[@id='input-54']</value>
+      <webElementGuid>4ced5111-4697-48eb-860b-36fab47edbab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login_form']/input</value>
-      <webElementGuid>eeb3b702-c468-489b-ba59-5cd07cf3217f</webElementGuid>
+      <value>//div[@id='lgt-accordion-section-37']/slot/table/tbody/tr/td[4]/div/lightning-input/lightning-primitive-input-simple/div/div/input</value>
+      <webElementGuid>eaa49c42-718b-4b77-a1ce-9c443d4b90da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/input</value>
-      <webElementGuid>bf2c44ee-9c64-4fb2-adef-4d678160b952</webElementGuid>
+      <value>//lightning-primitive-input-simple/div/div/input</value>
+      <webElementGuid>b3f1495b-6778-4833-b56a-f057e7c326dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @id = 'password' and @name = 'pw']</value>
-      <webElementGuid>ab01db1d-c9c5-4ca0-882b-d744e1671ed3</webElementGuid>
+      <value>//input[@id = 'input-54' and @name = 'Hours' and @type = 'text']</value>
+      <webElementGuid>4d6c6df3-0c95-4b2e-b0c3-2c2bc299d573</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

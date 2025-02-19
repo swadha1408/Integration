@@ -3,11 +3,11 @@
    <description></description>
    <name>a_New</name>
    <tag></tag>
-   <elementGuidId>3e0b4a6d-69c0-43f9-b11f-00bdcc53704e</elementGuidId>
+   <elementGuidId>050399a5-592a-4424-a428-0b7c01b88239</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='brandBand_1']/div/div/div/div/div/div/div[2]/ul/li/a</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='This list is not currently pinned.'])[1]/following::a[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c9c1cf0a-2d4b-49f7-990e-277452fa9fef</webElementGuid>
+      <webElementGuid>1bc7495e-dfa8-4311-b1b4-e7e915383917</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0);</value>
-      <webElementGuid>12491536-0513-4691-a230-2b48476cee62</webElementGuid>
+      <webElementGuid>92d7a81e-056b-4e0c-bf08-97be50b91d31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,15 +39,15 @@
       <name>title</name>
       <type>Main</type>
       <value>New</value>
-      <webElementGuid>3a8d22ca-831e-4f50-830f-aeaff9de4bbb</webElementGuid>
+      <webElementGuid>1d679d01-8b0f-4d50-bfd7-e391c24bf5d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-aura-rendered-by</name>
       <type>Main</type>
-      <value>1572:0</value>
-      <webElementGuid>6cfd1bd8-7993-4ce0-8c8c-fd93646b048f</webElementGuid>
+      <value>1666:0</value>
+      <webElementGuid>f86f2139-0806-4ac3-94bc-ae677975619d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>class</name>
       <type>Main</type>
       <value>forceActionLink</value>
-      <webElementGuid>23986edf-2d6c-46b4-99d1-ee19a28217f3</webElementGuid>
+      <webElementGuid>1821fb07-8b5f-4011-ad08-26d7bc49ff23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>data-aura-class</name>
       <type>Main</type>
       <value>forceActionLink</value>
-      <webElementGuid>079db14b-f0f8-4ced-9ded-843c0583aab7</webElementGuid>
+      <webElementGuid>2c2705e1-56e5-4643-97cd-e08103c3fb8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6e1a28fe-ee89-4421-9e55-774a5f6de88c</webElementGuid>
+      <webElementGuid>e8c4f824-769a-4a47-a60f-7123151b40ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -79,63 +79,55 @@
       <name>text</name>
       <type>Main</type>
       <value>New</value>
-      <webElementGuid>4ecbc678-4661-4135-ba20-82f30323022c</webElementGuid>
+      <webElementGuid>a47261c1-0395-40a6-8d74-fb8738231ed6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;brandBand_1&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;windowViewMode-maximized oneContent active lafPageHost&quot;]/div[@class=&quot;oneConsoleObjectHome&quot;]/div[@class=&quot;test-listViewManager slds-card slds-card_boundary slds-grid slds-grid_vertical slds-grid--vertical forceListViewManager&quot;]/div[@class=&quot;slds-page-header_object-home slds-page-header--object-home slds-page-header_joined slds-page-header_bleed slds-page-header slds-shrink-none test-headerRegion forceListViewManagerHeader&quot;]/div[@class=&quot;slds-grid&quot;]/div[@class=&quot;slds-col slds-no-flex slds-grid slds-align-top slds-p-bottom--xx-small test-lvmForceActionsContainer&quot;]/ul[@class=&quot;branding-actions slds-button-group slds-m-left--xx-small oneActionsRibbon forceActionsContainer&quot;]/li[@class=&quot;slds-button slds-button--neutral slds-button_neutral&quot;]/a[@class=&quot;forceActionLink&quot;]</value>
-      <webElementGuid>36125103-2a5b-4afa-b17b-de401f32d6bd</webElementGuid>
+      <value>/html[@class=&quot;slds-no-wcag&quot;]/body[@class=&quot;null comm-page-list-a39&quot;]/div[@class=&quot;themeLayoutStarterWrapper isHeroUnderHeader-false isHeaderPinned-false siteforceThemeLayoutStarter&quot;]/div[@class=&quot;body isPageWidthFixed-true&quot;]/div[@class=&quot;siteforceSldsOneColLayout siteforceContentArea&quot;]/div[@class=&quot;slds-col--padded contentRegion comm-layout-column&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/div[@class=&quot;test-listViewManager slds-card slds-card_boundary slds-grid slds-grid_vertical slds-grid--vertical forceListViewManager forceCommunityRecordListDesktop forceCommunityObjectHome&quot;]/div[@class=&quot;slds-page-header_object-home slds-page-header--object-home slds-page-header_joined slds-page-header_bleed slds-page-header slds-shrink-none test-headerRegion forceListViewManagerHeader&quot;]/div[@class=&quot;slds-grid&quot;]/div[@class=&quot;slds-col slds-no-flex slds-grid slds-align-top slds-p-bottom--xx-small test-lvmForceActionsContainer&quot;]/ul[@class=&quot;branding-actions slds-button-group slds-m-left--xx-small oneActionsRibbon forceActionsContainer&quot;]/li[@class=&quot;slds-button slds-button--neutral slds-button_neutral&quot;]/a[@class=&quot;forceActionLink&quot;]</value>
+      <webElementGuid>9c35171a-10fc-4fae-906b-a0c24d02a36a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//div[@id='brandBand_1']/div/div/div/div/div/div/div[2]/ul/li/a</value>
-      <webElementGuid>2aa8f308-6cbe-402a-adf8-c07337ef6cd1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This list is not currently pinned.'])[1]/following::a[1]</value>
+      <webElementGuid>d68efff4-2d50-4337-90de-7bf531dd7299</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='To unpin, pin another list view.'])[1]/following::a[1]</value>
-      <webElementGuid>b4073c59-3ad6-4a55-9082-4f415e22d3ee</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pin this list view.'])[1]/following::a[1]</value>
+      <webElementGuid>65604ced-a932-4d67-a648-1e0ebce18329</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='This list is pinned.'])[1]/following::a[1]</value>
-      <webElementGuid>0046734c-79f2-413f-b607-f5862786699d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[1]/preceding::a[1]</value>
-      <webElementGuid>8da4c786-2e11-4744-a228-d5a904c854b9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Updated a few seconds ago'])[1]/preceding::a[1]</value>
+      <webElementGuid>02aa70aa-d036-4529-9123-31d57093c4f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, 'javascript:void(0);')])[5]</value>
-      <webElementGuid>d00e89d3-96df-4b6f-bedd-1517cf29290b</webElementGuid>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[6]</value>
+      <webElementGuid>ad8d54c9-56ac-47f8-aaf4-7ff464e195c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li/a</value>
-      <webElementGuid>2c6c606f-8310-4571-ae3d-e5198189f117</webElementGuid>
+      <value>//div[2]/ul/li/a</value>
+      <webElementGuid>53692d75-ae06-4151-993b-19be5c9dce08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,6 +135,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript:void(0);' and @title = 'New' and (text() = 'New' or . = 'New')]</value>
-      <webElementGuid>9c425fe1-dbf2-458c-bb67-de07534c8138</webElementGuid>
+      <webElementGuid>12fedc81-0f3e-4667-b53c-413a7684795a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

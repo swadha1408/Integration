@@ -6,12 +6,12 @@
    <elementGuidId>2c7e2d72-ea51-4db6-9f98-a3c543c83cbf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#input-358</value>
+         <key>XPATH</key>
+         <value>//input[@id='input-247']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='input-358']</value>
+         <key>CSS</key>
+         <value>#input-247</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c2db8792-7a78-41c3-b68c-87e9b6e83a1f</webElementGuid>
+      <webElementGuid>aed7fe7b-0905-4e40-ab5d-7af575753433</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-input</value>
-      <webElementGuid>c3a4067d-342c-42f1-a79f-0a396b956ce2</webElementGuid>
+      <webElementGuid>2e34af17-4e24-4b8b-97c9-0ab60c38a089</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,15 +39,15 @@
       <name>part</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0ce3c8f7-6e4e-440a-858a-918791c729be</webElementGuid>
+      <webElementGuid>c69ea4bd-5566-42b0-a680-61f2f6d1ec6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>input-358</value>
-      <webElementGuid>ec568725-9db5-4039-a746-93b729d9e2a9</webElementGuid>
+      <value>input-247</value>
+      <webElementGuid>33ed5e2c-9dc0-4c49-a571-5d9b2dcbbc4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>40b86190-f56a-404a-bfcd-b0d24009959e</webElementGuid>
+      <webElementGuid>be957fde-027a-486f-b711-621ca3e17f1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Name</value>
-      <webElementGuid>974156c4-9989-4585-8176-2f666a7c087e</webElementGuid>
+      <webElementGuid>55f21ed2-1861-4cec-a673-2bfee59e40f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,26 +71,58 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>dbfcfdd1-7721-40ac-bf83-59dea4191a7b</webElementGuid>
+      <webElementGuid>5191223a-b5e2-481b-84d3-729c170c32ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-describedby</name>
       <type>Main</type>
-      <value>help-message-358</value>
-      <webElementGuid>bc200797-51c6-483a-81ea-123f49baa3ea</webElementGuid>
+      <value>help-message-247</value>
+      <webElementGuid>92f2f179-3d75-413e-931f-8e4e6749d117</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;input-358&quot;)</value>
-      <webElementGuid>e56fe49f-612f-49a6-8116-d58b2e828180</webElementGuid>
+      <value>id(&quot;input-247&quot;)</value>
+      <webElementGuid>9530f309-2a33-40f0-af6d-17f199cda77d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='input-247']</value>
+      <webElementGuid>8f246285-c983-4262-8b71-2b31ed00665d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sectionContent-230']/dl/slot/records-record-layout-row[2]/slot/records-record-layout-item/div/span/slot/records-record-layout-base-input/lightning-input/lightning-primitive-input-simple/div/div/input</value>
+      <webElementGuid>d692ecd6-a9eb-47fe-9f35-2bd38bab33d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//records-record-layout-base-input/lightning-input/lightning-primitive-input-simple/div/div/input</value>
+      <webElementGuid>298cb098-80d9-492d-806a-e4bf246ca620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'input-247' and @name = 'Name' and @type = 'text']</value>
+      <webElementGuid>df2dbe2d-cf15-417d-ab57-4edc0f60614e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -108,41 +140,9 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//records-record-layout-base-input/lightning-input/lightning-primitive-input-simple/div/div/input</value>
-      <webElementGuid>9372695d-73c1-4990-94a0-fcfbd4cc73a0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'input-358' and @name = 'Name' and @type = 'text']</value>
       <webElementGuid>cd9939e3-11db-4368-bee7-a446b887f1cc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//input[@id='input-247']</value>
-      <webElementGuid>b3048452-efa3-44c5-ad7c-383e94d096f1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='sectionContent-230']/dl/slot/records-record-layout-row[2]/slot/records-record-layout-item/div/span/slot/records-record-layout-base-input/lightning-input/lightning-primitive-input-simple/div/div/input</value>
-      <webElementGuid>9805a951-882b-4628-9e25-e031155265dd</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@id = 'input-247' and @name = 'Name' and @type = 'text']</value>
-      <webElementGuid>3450d748-4d0f-405d-9acb-494a57108e99</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
