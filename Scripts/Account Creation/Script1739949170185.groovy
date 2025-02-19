@@ -21,11 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://login.salesforce.com/')
 
+WebUI.takeScreenshotAsCheckpoint('Login Page')
+
 WebUI.setText(findTestObject('Object Repository/Page_Login  Salesforce/input_Username_username'), 'katalonauto@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login  Salesforce/input_Password_pw'), 'aV3au6fJxyMDS2uUgpRKqg==')
 
 WebUI.click(findTestObject('Object Repository/Page_Login  Salesforce/input_Password_Login'))
+
+WebUI.takeScreenshotAsCheckpoint('After Login')
 
 WebUI.click(findTestObject('Object Repository/Page_Home  Salesforce/div_App Launcher'))
 
@@ -40,6 +44,8 @@ WebUI.click(findTestObject('Object Repository/Page_Recently Viewed  Accounts  Sa
 WebUI.setText(findTestObject('Object Repository/Page_New Account  Salesforce/input__Name'), 'Katalon Test1')
 
 WebUI.click(findTestObject('Object Repository/Page_New Account  Salesforce/button_Save'))
+
+WebUI.takeScreenshotAsCheckpoint('Account created')
 
 WebUI.click(findTestObject('Object Repository/Page_Katalon Test1  Account  Salesforce/a_Details'))
 
